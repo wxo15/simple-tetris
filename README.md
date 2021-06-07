@@ -5,3 +5,5 @@ Adapted from [here](https://levelup.gitconnected.com/writing-tetris-in-python-2a
 
 Added computer battling, holding, queue feature.
 
+
+![](game-in-action.gif)
